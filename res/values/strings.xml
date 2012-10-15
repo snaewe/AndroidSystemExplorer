@@ -4,5 +4,9 @@
     <string name="hello_world">Hello world!</string>
     <string name="menu_settings">Settings</string>
     <string name="title_activity_system_information">SystemInformation</string>
+    <string-array name="choices_array">
+        <item >Storage</item>
+        <item >CpuInfo</item>
+    </string-array>
 
 </resources>
